@@ -9,5 +9,6 @@
   
   
 ```
-You can view our proceedings through the [link](https://archive.ceciis.foi.hr/public/conferences/2025/Proceedings/S9/11.pdf)
+You can view our proceedings through the below link 
+https://archive.ceciis.foi.hr/public/conferences/2025/Proceedings/S9/11.pdf
 ```
