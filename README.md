@@ -7,6 +7,7 @@
 <img width="824" height="794" alt="image" src="https://github.com/user-attachments/assets/aed3b98f-449a-43c1-966e-932db19bf6f9" />  
   
 <br/>  
+
 ```
 You can view our proceedings through the below link 
 https://archive.ceciis.foi.hr/public/conferences/2025/Proceedings/S9/11.pdf
@@ -14,6 +15,7 @@ https://archive.ceciis.foi.hr/public/conferences/2025/Proceedings/S9/11.pdf
 
 <br/>
 <br/>  
+
 ## Seminar
 <img width="1079" height="979" alt="image" src="https://github.com/user-attachments/assets/213e92e8-3cb2-4f3c-82a3-88f9e9ee5171" />  
 
