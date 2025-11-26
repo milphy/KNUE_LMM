@@ -20,10 +20,13 @@ https://archive.ceciis.foi.hr/public/conferences/2025/Proceedings/S9/11.pdf
 <img width="1079" height="979" alt="image" src="https://github.com/user-attachments/assets/213e92e8-3cb2-4f3c-82a3-88f9e9ee5171" />  
 
 <br/>
+
 <img width="874" height="455" alt="image" src="https://github.com/user-attachments/assets/7bea12cf-96cd-43e4-bba7-55e60ddc809d" />  
   
-
 <br/>
+
 <br/>  
+
 ## Patent Application
+
 <img width="645" height="398" alt="image" src="https://github.com/user-attachments/assets/433d2dd4-620b-4913-8818-9069f172134d" />  
